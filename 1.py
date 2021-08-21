@@ -7,3 +7,5 @@ print("this is third push")
 print("this is forth push")
 
 print(10+5)
+
+print(1)
